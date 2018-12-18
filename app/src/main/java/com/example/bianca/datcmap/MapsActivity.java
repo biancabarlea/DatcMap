@@ -1,4 +1,4 @@
-package com.example.bianca.test;
+package com.example.bianca.datcmap;
 
 import android.content.pm.PackageManager;
 import android.location.Location;
@@ -11,6 +11,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
+import com.example.bianca.test.R;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;

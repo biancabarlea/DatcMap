@@ -1,4 +1,4 @@
-package com.example.bianca.test;
+package com.example.bianca.datcmap;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
