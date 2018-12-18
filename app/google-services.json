@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "911609947886",
+    "firebase_url": "https://parcareinteligenta.firebaseio.com",
+    "project_id": "parcareinteligenta",
+    "storage_bucket": "parcareinteligenta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911609947886:android:0a9fc1b1449e66d2",
+        "android_client_info": {
+          "package_name": "com.example.bianca.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911609947886-h1qcb72a8qoifhjbd1rlqkn2deu5hqqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTqzUFuhj3kWBg0l4kEulP_bheI0P_S0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
