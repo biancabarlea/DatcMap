@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.bianca.test"
+        applicationId "com.example.bianca.datcmap"
         minSdkVersion 26
         targetSdkVersion 28
         versionCode 1
